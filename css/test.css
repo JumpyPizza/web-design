@@ -1,0 +1,79 @@
+/* CSS Document */
+
+
+.logo{
+	position: relative;
+	left: 300px;
+	top:30px;
+}
+
+#logo2{
+	margin-left: 200px;
+	margin-bottom: 0px;
+	position: absolute;
+	top:5px;
+}
+.logo p{
+	position: absolute;
+	left: 450px;
+	top:40px;
+	font-family:"cabin-sketch";
+	font-size: 30px;
+}
+
+.image{
+	position: absolute;
+	left: 170px;
+	top: 270px;
+}
+
+
+.inputpart{
+	position: relative;
+	left:690px;
+	top: 230px;
+}
+
+#input1{
+	width: 260px;
+	height: 30px;
+	margin-bottom: 30px;
+	background: url(../img/inputlogo.jpg) no-repeat right;
+}
+
+#input2{
+	width: 260px;
+	height: 30px;
+	margin-bottom: 20px;
+	background: url(../img/inputlogo2.jpg) no-repeat right;
+}
+
+.inputpart button{
+	position: absolute;
+	left: 8px;
+	background-color: #CB0003;
+	border: none;
+	color: beige;
+	padding: 7px 105px 7px 105px;
+	font-size: 20px;
+}
+
+
+.lianxi {
+	width:100%;
+	float: left;
+	margin: 40px;
+	position: fixed;
+	left: 300px;
+	bottom:30px;
+	
+}
+
+.lianxi span{
+	padding: 50px;
+	font-size: 20px;
+}
+.lianxi a:hover{
+	color: blue;
+	text-decoration: underline;
+}
